@@ -7,6 +7,11 @@ Steam game recommendation system aims to relieve the cold start issues for small
 
 [Tensorflow](https://www.tensorflow.org/)
 
+## Metrics
+
+Root mean squared error (RMSE)    
+Mean absolute error (MAE)
+
 ## Instructions
 
 The code is availble in `Deep-learning-based-Steam-game-recommendation-system.ipynb`. And one dataset is required for the model training:
